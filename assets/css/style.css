@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;500;700&display=swap');
+
+body {
+  background-color: #181a1b;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.carousel-inner>.carousel-item>img {
+  height: 92vh;
+}
